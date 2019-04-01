@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Toast.makeText(this,"ok",Toast.LENGTH_LONG)
-        aldalsdlascsc
     }
 }
